@@ -43,7 +43,7 @@ The game continues until the player makes an invalid move or the computer can't 
 1. Clone this repository to your local machine:
 
      ```bash
-     git clone https://github.com/your-username/word-game.git
+     git clone https://github.com/Xedygen/wordGame.git
      ```
 
 2. Install the necessary Python libraries:
