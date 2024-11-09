@@ -55,7 +55,7 @@ The game continues until the player makes an invalid move or the computer can't 
 3. Compile the C program:
 
      ```bash
-     gcc -o word_game word_game.c
+     gcc -o word_game main.c
      ```
 
 4. Run the program:
